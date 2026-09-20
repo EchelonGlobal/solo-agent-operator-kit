@@ -32,4 +32,4 @@ This kit was produced with AI assistance under a human-owned business. A human r
 
 ## License
 
-Single-buyer. Use the templates in your own agent workspaces, including commercial client work. No resale or redistribution of the kit itself.
+MIT. See [LICENSE](LICENSE) for the full text.
