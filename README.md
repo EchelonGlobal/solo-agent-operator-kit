@@ -1,5 +1,9 @@
 # The Solo Agent Operator Kit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/EchelonGlobal/solo-agent-operator-kit)](https://github.com/EchelonGlobal/solo-agent-operator-kit/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/EchelonGlobal/solo-agent-operator-kit)](https://github.com/EchelonGlobal/solo-agent-operator-kit/releases)
+
 Hardened workspace templates, a skill-vetting checklist, and a 24/7 operator routine for solo agent runners. So your agent runs with structure instead of vibes.
 
 **Get the full kit ($29, one time): [Gumroad listing — link coming with launch]**
